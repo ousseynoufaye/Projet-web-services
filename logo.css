@@ -1,0 +1,16 @@
+.navbar-brand{
+  margin: 0;
+  padding: 0;
+}
+.logo{
+height: 50px;
+padding-right: 0px;
+margin-left: -15px;
+width: 60px;
+
+}
+.navbar-expand-md{
+  height: 55px;
+  padding-top: 5px;
+
+}
